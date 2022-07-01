@@ -1,0 +1,6 @@
+framework module FFMDTTSpecialKit {
+  umbrella header "FFMDTTSpecialKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

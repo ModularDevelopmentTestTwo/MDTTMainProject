@@ -1,0 +1,18 @@
+# cocoapods 公用仓库地址
+source 'https://github.com/CocoaPods/Specs.git'
+# 私有仓库（存放podsepc文件的仓库）git地址
+source 'git@github.com:situyan/MyRepo.git'
+
+use_frameworks!
+platform :ios, '10.0'
+target ‘FlowerField’ do 
+
+#pod 'Masonry'
+#pod 'YYWebImage'
+#pod 'ReactiveCocoa', '~> 2.5'
+
+pod 'FFMDTTSpecialKit'
+pod 'FFMDTTAuthorKit'
+# https://blog.csdn.net/weixin_38934440/article/details/114991977
+end
+

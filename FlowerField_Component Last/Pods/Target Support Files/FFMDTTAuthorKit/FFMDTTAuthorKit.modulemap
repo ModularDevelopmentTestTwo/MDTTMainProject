@@ -1,0 +1,6 @@
+framework module FFMDTTAuthorKit {
+  umbrella header "FFMDTTAuthorKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MDMediator {
+  umbrella header "MDMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}

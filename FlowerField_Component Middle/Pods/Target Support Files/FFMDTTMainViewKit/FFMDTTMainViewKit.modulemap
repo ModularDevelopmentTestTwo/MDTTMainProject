@@ -1,0 +1,6 @@
+framework module FFMDTTMainViewKit {
+  umbrella header "FFMDTTMainViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

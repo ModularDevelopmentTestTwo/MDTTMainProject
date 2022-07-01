@@ -1,0 +1,6 @@
+framework module FFMDTTAPIsKit {
+  umbrella header "FFMDTTAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
